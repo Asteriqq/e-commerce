@@ -773,25 +773,25 @@ footer .copyright{
     cursor: pointer;
 }
 
-#prodetails .single-pto-details{
+#prodetails .single-pro-details{
     width: 50%;
 }
 
-#prodetails .single-pto-details h4{
+#prodetails .single-pro-details h4{
     padding: 40px 0 20px 0;
 }
 
-#prodetails .single-pto-details h2{
+#prodetails .single-pro-details h2{
     font-size: 26px;
 }
 
-#prodetails .single-pto-details select{
+#prodetails .single-pro-details select{
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
 }
 
-#prodetails .single-pto-details input{
+#prodetails .single-pro-details input{
     width: 50px;
     height: 47px;
     padding-left: 10px;
@@ -799,7 +799,15 @@ footer .copyright{
     font-size: 16px;
 }
 
-#prodetails .single-pto-details button{
+#prodetails .single-pro-details button{
     background-color: #088178;
     color: white;
+}
+
+#prodetails .single-pro-details input:focus{
+    outline: none;
+}
+
+#prodetails .single-pro-details span{
+    line-height: 25px;
 }
