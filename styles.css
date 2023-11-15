@@ -645,6 +645,11 @@ footer .copyright{
     line-height: 25px;
 }
 
+/* Blog */
+#page-header.blog-header{
+    background-image: url("img/banner/b19.jpg")
+}
+
 /*Start media query*/
 
 @media (max-width: 820px){
