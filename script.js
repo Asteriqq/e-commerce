@@ -30,4 +30,4 @@ for (let i = 0; i < ProductImg.length; i++) {
     ProductImg[i].addEventListener('click', () => {
         MainImg.src = ProductImg[i].src;
     });
-}
+} 
